@@ -1,0 +1,8 @@
+# Ignore every file except .xpr and .srcs
+*.cache
+*.gen
+*.hw
+*.ip_user_files
+*.runs
+*.sim
+*.tmp
